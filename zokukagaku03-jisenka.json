@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/jisenka",
  "yomi": "じせんか",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集（自撰）",
+  "era": "明和〜安永の詠",
+  "author": "本居宣長（1730〜1801）",
+  "desc": "本居宣長が自ら選んだ歌を年次順に並べたもの。明和7年の「花月百首」に始まり、安永年間の歌まで収める。"
+ },
  "editions": [
   {
    "pid": "993381",
